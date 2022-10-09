@@ -23,8 +23,11 @@ a{
   color: #6e2800;
 }
 
-a:visited{
+a:hover{
   color: #a72100;
+}
+a:visited{
+  color: #7d01b6;
 }
 .align-left{
   text-align: left;
