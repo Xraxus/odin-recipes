@@ -1,0 +1,32 @@
+body {
+  background-color:#f7f1d0;
+  color: #1d1d1d;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Helvetica', sans-serif;
+}
+
+img{
+  border: 1px solid black;
+  border-radius: 25px;
+  width: 500px;
+  height: auto;
+}
+
+ul{
+  list-style: none;
+}
+
+a{
+  color: #6e2800;
+}
+
+a:visited{
+  color: #a72100;
+}
+.align-left{
+  text-align: left;
+  margin: 20px;
+}
